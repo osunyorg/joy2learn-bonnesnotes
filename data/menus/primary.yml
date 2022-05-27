@@ -7,16 +7,16 @@
     target: "/fr/projet/mission/"
     kind: page
     children: []
+  - title: Fondateur
+    target: "/fr/alan-gampel-fondateur-du-projet/"
+    kind: page
+    children: []
   - title: Résultats scientifiques
     target: "/fr/projet/resultats-scientifiques/"
     kind: page
     children: []
   - title: Chiffres-clés
     target: "/fr/projet/chiffres-cles/"
-    kind: page
-    children: []
-  - title: Fondateur
-    target: "/fr/alan-gampel-fondateur-du-projet/"
     kind: page
     children: []
   - title: Avenir
