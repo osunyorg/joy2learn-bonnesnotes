@@ -1,6 +1,6 @@
 ---
 - title: Mission
-  target: "/mission/"
+  target: "/projet/mission/"
   kind: page
   children: []
 
