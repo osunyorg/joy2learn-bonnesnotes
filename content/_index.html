@@ -8,9 +8,12 @@ bodyclass:
 
 children:
   - /fr/projet/
+  - /fr/pourquoi/
   - /fr/notre-equipe/
-  - /fr/actualites/
   - /fr/equipe/
+  - /fr/actualites/
+  - /fr/partenaires/
+  - /fr/organisations/
   - /fr/mentions-legales/
   - /fr/politique-de-confidentialite/
   - /fr/plan-du-site/
@@ -36,10 +39,27 @@ blocks:
           job: >-
             Fondateur de la méthode internationale d'éducation musicale Suzuki
           photo: "e76c4608-513f-4171-b8dc-841064b66e0c"
+  - template: pages
+    title: >
+      
+    position: 2
+    data:
+      page: /fr/projet/
+      show_main_description: false
+      show_descriptions: true
+      show_images: false
+      layout: cards
+      pages:
+        - page: /fr/projet/mission/
+          slug: /fr/projet/mission/
+        - page: /fr/projet/notre-avenir/
+          slug: /fr/projet/notre-avenir/
+        - page: /fr/projet/chiffres-cles/
+          slug: /fr/projet/chiffres-cles/
   - template: posts
     title: >
       Actualités
-    position: 2
+    position: 3
     data:
       posts:
         - 2022/2022-02-17-teenage-skiing-prodigy-credits-nine-years-of-piano-playing-for-gold-medal-at-winter-olympics
@@ -48,6 +68,25 @@ blocks:
         - 2018/2018-11-05-music-also-matters-in-the-real-world
         - 2017/2017-06-14-new-evidence-links-music-education-higher-test-scores
         - 2017/2017-03-24-emmanuel-macron-en-marche-avec-l-education-musicale-a-l-ecole
+  - template: pages
+    title: >
+      
+    position: 4
+    data:
+      page: /fr/pourquoi/
+      show_main_description: true
+      show_descriptions: true
+      show_images: false
+      layout: list
+      pages:
+        - page: /fr/pourquoi/music-education-throughout-the-years/
+          slug: /fr/pourquoi/music-education-throughout-the-years/
+        - page: /fr/pourquoi/les-atouts-de-la-pratique-musicale/
+          slug: /fr/pourquoi/les-atouts-de-la-pratique-musicale/
+        - page: /fr/pourquoi/competences-scolaires/
+          slug: /fr/pourquoi/competences-scolaires/
+        - page: /fr/pourquoi/references-scientifiques/
+          slug: /fr/pourquoi/references-scientifiques/
 
 
 ---
