@@ -35,4 +35,8 @@
   target: "/fr/partenaires/"
   kind: page
   children: []
+- title: Pourquoi ?
+  target: "/fr/pourquoi/"
+  kind: page
+  children: []
 
