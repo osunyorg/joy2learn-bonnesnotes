@@ -1,30 +1,30 @@
 ---
 - title: Projet
-  target: "/projet/"
+  target: "/fr/projet/"
   kind: page
   children:
   - title: Mission
-    target: "/projet/mission/"
+    target: "/fr/projet/mission/"
     kind: page
     children: []
   - title: Résultats scientifiques
-    target: "/projet/resultats-scientifiques/"
+    target: "/fr/projet/resultats-scientifiques/"
     kind: page
     children: []
   - title: Chiffres-clés
-    target: "/projet/chiffres-cles/"
+    target: "/fr/projet/chiffres-cles/"
     kind: page
     children: []
   - title: Avenir
-    target: "/projet/notre-avenir/"
+    target: "/fr/projet/notre-avenir/"
     kind: page
     children: []
 - title: Notre équipe
-  target: "/notre-equipe/"
+  target: "/fr/notre-equipe/"
   kind: page
   children: []
 - title: Actualités
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: news
   children: []
 
