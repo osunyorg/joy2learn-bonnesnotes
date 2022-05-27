@@ -23,18 +23,6 @@
     target: "/fr/projet/notre-avenir/"
     kind: page
     children: []
-- title: Notre équipe
-  target: "/fr/notre-equipe/"
-  kind: page
-  children: []
-- title: Actualités
-  target: "/fr/actualites/"
-  kind: news
-  children: []
-- title: Partenaires
-  target: "/fr/partenaires/"
-  kind: page
-  children: []
 - title: Pourquoi ?
   target: "/fr/pourquoi/"
   kind: page
@@ -55,4 +43,16 @@
     target: "/fr/pourquoi/references-scientifiques/"
     kind: page
     children: []
+- title: Notre équipe
+  target: "/fr/notre-equipe/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: news
+  children: []
+- title: Partenaires
+  target: "/fr/partenaires/"
+  kind: page
+  children: []
 
