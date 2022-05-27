@@ -31,4 +31,8 @@
   target: "/fr/partenaires/"
   kind: page
   children: []
+- title: Le fondateur du projet
+  target: "/fr/alan-gampel-fondateur-du-projet/"
+  kind: page
+  children: []
 
