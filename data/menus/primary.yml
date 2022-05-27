@@ -7,12 +7,12 @@
     target: "/projet/mission/"
     kind: page
     children: []
-- title: Résultats scientifiques
-  target: "/projet/resultats-scientifiques/"
-  kind: page
-  children: []
-- title: Avenir
-  target: "/projet/notre-avenir/"
-  kind: page
-  children: []
+  - title: Résultats scientifiques
+    target: "/projet/resultats-scientifiques/"
+    kind: page
+    children: []
+  - title: Avenir
+    target: "/projet/notre-avenir/"
+    kind: page
+    children: []
 
