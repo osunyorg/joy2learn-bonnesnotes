@@ -27,4 +27,8 @@
   target: "/fr/actualites/"
   kind: news
   children: []
+- title: Partenaires
+  target: "/fr/partenaires/"
+  kind: page
+  children: []
 
