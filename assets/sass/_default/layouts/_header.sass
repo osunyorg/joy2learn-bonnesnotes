@@ -1,0 +1,18 @@
+header[role="banner"]
+    &::after
+        background-color: rgba(black, .1)
+        bottom: 0
+        content: ''
+        height: 1px
+        left: 0
+        position: absolute
+        width: 100%
+    .logo
+        img
+            height: 42px
+            @include media-breakpoint-down(lg)
+                height: 30px
+
+    nav[role="navigation"]
+        button[type="button"]
+            color: black
