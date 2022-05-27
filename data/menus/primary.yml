@@ -1,10 +1,10 @@
 ---
-- title: Mission
-  target: "/projet/mission/"
-  kind: page
-  children: []
 - title: Projet
   target: "/projet/"
   kind: page
-  children: []
+  children:
+  - title: Mission
+    target: "/projet/mission/"
+    kind: page
+    children: []
 
