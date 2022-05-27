@@ -47,4 +47,12 @@
     target: "/fr/pourquoi/les-atouts-de-la-pratique-musicale/"
     kind: page
     children: []
+  - title: Compétences scolaires
+    target: "/fr/pourquoi/competences-scolaires/"
+    kind: page
+    children: []
+  - title: Références scientifiques
+    target: "/fr/pourquoi/references-scientifiques/"
+    kind: page
+    children: []
 
