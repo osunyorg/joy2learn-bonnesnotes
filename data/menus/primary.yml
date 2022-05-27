@@ -15,4 +15,8 @@
     target: "/projet/notre-avenir/"
     kind: page
     children: []
+- title: Notre équipe
+  target: "/notre-equipe/"
+  kind: page
+  children: []
 
