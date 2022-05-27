@@ -15,6 +15,10 @@
     target: "/fr/projet/chiffres-cles/"
     kind: page
     children: []
+  - title: Le fondateur du projet
+    target: "/fr/alan-gampel-fondateur-du-projet/"
+    kind: page
+    children: []
   - title: Avenir
     target: "/fr/projet/notre-avenir/"
     kind: page
@@ -29,10 +33,6 @@
   children: []
 - title: Partenaires
   target: "/fr/partenaires/"
-  kind: page
-  children: []
-- title: Le fondateur du projet
-  target: "/fr/alan-gampel-fondateur-du-projet/"
   kind: page
   children: []
 
