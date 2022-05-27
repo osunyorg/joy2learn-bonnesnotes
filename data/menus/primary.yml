@@ -43,4 +43,8 @@
     target: "/fr/pourquoi/music-education-throughout-the-years/"
     kind: page
     children: []
+  - title: Les atouts de la pratique musicale
+    target: "/fr/pourquoi/les-atouts-de-la-pratique-musicale/"
+    kind: page
+    children: []
 
