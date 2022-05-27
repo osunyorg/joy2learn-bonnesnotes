@@ -1,2 +1,6 @@
---- []
+---
+- title: Mission
+  target: "/mission/"
+  kind: page
+  children: []
 
