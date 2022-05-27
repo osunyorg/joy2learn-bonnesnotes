@@ -11,4 +11,8 @@
   target: "/projet/resultats-scientifiques/"
   kind: page
   children: []
+- title: Avenir
+  target: "/projet/notre-avenir/"
+  kind: page
+  children: []
 
