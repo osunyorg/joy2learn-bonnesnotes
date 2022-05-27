@@ -19,4 +19,8 @@
   target: "/notre-equipe/"
   kind: page
   children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: news
+  children: []
 
