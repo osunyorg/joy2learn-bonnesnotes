@@ -11,6 +11,10 @@
     target: "/projet/resultats-scientifiques/"
     kind: page
     children: []
+  - title: Chiffres-clés
+    target: "/projet/chiffres-cles/"
+    kind: page
+    children: []
   - title: Avenir
     target: "/projet/notre-avenir/"
     kind: page
@@ -22,9 +26,5 @@
 - title: Actualités
   target: "/actualites/"
   kind: news
-  children: []
-- title: Chiffres-clés
-  target: "/projet/chiffres-cles/"
-  kind: page
   children: []
 
