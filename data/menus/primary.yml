@@ -49,7 +49,7 @@
   children: []
 - title: Actualités
   target: "/fr/actualites/"
-  kind: news
+  kind: posts
   children: []
 - title: Partenaires
   target: "/fr/partenaires/"
