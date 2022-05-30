@@ -17,7 +17,7 @@ https://github.com/noesya/osuny-hugo-template
 
 Pour faire la mise à jour :
 ```
-git remote add template git@github.com:noesya/joy2learn-musicando.git
+git remote add template git@github.com:noesya/osuny-hugo-template.git
 git fetch --all
 git merge template/main --allow-unrelated-histories
 ```
@@ -27,7 +27,7 @@ git merge template/main --allow-unrelated-histories
 
 Pour cloner avec le thème
 ```
-git clone git@github.com:noesya/osuny-hugo-template.git --recurse-submodules
+git clone git@github.com:noesya/joy2learn-musicando.git --recurse-submodules
 ```
 Pour récupérer le thème
 ```
