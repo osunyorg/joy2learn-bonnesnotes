@@ -1,25 +1,52 @@
 .block-pages
     .main-page
         .title
+            @extend .surtitle
+            font-weight: 600
             a
-                &::before
-                    content: none
+                font-size: inherit
+                line-height: inherit
+        .title + p
+            @extend .h3
+            margin-top: calc(#{$spacer} * 2)
 
-    &--card
-        .page
-            .title
-                a
-                    &::before
-                        content: none
+    &--cards
+        .pages
+            > *
+                position: relative
+                @include media-breakpoint-only(md)
+                    &:nth-child(odd)::after
+                        background-color: $border-color
+                        content: ''
+                        height: 100%
+                        position: absolute
+                        right: 0
+                        top: 0
+                        width: 1px
+                @include media-breakpoint-up(lg)
+                    &:not(:nth-child(3n))::after
+                        background-color: $border-color
+                        content: ''
+                        height: 100%
+                        position: absolute
+                        right: 0
+                        top: 0
+                        width: 1px
+                &:last-child::after
+                    content: none
+            .page
+                .title
+                    a
+                        @extend .h4
+                        margin-bottom: 0
 
 // .block-pages
 //     .main-page
-//         @include media-breakpoint-up(lg)
-//             > div:first-child
-//                 padding-right: $grid-gutter-width
+//          @include media-breakpoint-up(lg)
+//              > div:first-child
+//                  padding-right: $grid-gutter-width
 //         .title
-//             @extend .surtitle
-//             font-weight: 600
+//             
 //             a
 //                 font-size: inherit
 //                 line-height: inherit
