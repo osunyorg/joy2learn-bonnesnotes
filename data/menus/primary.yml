@@ -44,7 +44,7 @@
     kind: page
     children: []
 - title: Notre équipe
-  target: "/fr/equipe/"
+  target: "/fr/notre-equipe/"
   kind: persons
   children: []
 - title: Actualités
