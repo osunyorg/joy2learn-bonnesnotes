@@ -1,34 +1,16 @@
 @import "_theme/utils"
 
-// Site variables
-$site-color: #0c3c68
-
-// Header
-$enable-header-sticky: true
-$header-background-color: $site-color
-$header-height: 50px
-$header-height-md: 102px
-
-$menu-background-color: $site-color
-
-// Hero
-$hero-height: 300px
-$hero-height-md: calc(700px - #{$header-height-md})
-
-// Toc
-$toc-height: 66px
-
-
 // Bootstrap variables
 $black: #000000
 $white: #FFFFFF
 $light: #ECECEC
-$primary: $black
+$primary: #0c3c68
 $body-bg: $white
 $body-color: $black
 $border-color: #C3C3C5
 $border-color: rgba(black, .2)
 $light: #F5F5F5
+$link-color: black
 
 $container-max-widths: ( sm: 100%, md: 100%, lg: 100%, xl: 100%, xxl: 1980px )
 $grid-gutter-width: 3.75rem
@@ -90,3 +72,28 @@ $pagination-border-width: 0
 $pagination-active-bg: transparent
 $pagination-active-color: rgba(black, .65)
 $pagination-disabled-color: #DADADA
+
+
+// Header
+$enable-header-sticky: true
+$header-background-color: $primary
+$header-color: white
+$header-height: 75px
+$header-height-md: 102px
+$menu-background-color: $primary
+
+
+// Hero
+$hero-height: 300px
+$hero-height-md: calc(700px - #{$header-height-md})
+
+// Footer
+$footer-background: $black
+$footer-color: $white
+
+// Toc
+$toc-height: 66px
+
+// Block page
+$block-pages-card-page-background-hover: $primary
+$block-pages-card-page-color: black

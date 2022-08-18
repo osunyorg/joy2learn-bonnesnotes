@@ -1,6 +1,5 @@
 .hero
     align-items: normal
-    background-color: $site-color
     flex-direction: column
     padding-bottom: 0
     padding-top: px2rem(32)
@@ -12,7 +11,6 @@
 
     > div:first-of-type
         > div
-            margin-top: $grid-gutter-width
             @include media-breakpoint-up(md)
                 margin-top: px2rem(120)
 
@@ -31,11 +29,20 @@
             margin-top: 0
 
     .container .title-avatar
-        align-items: flex-start
-        > h1
-            @extend .col-8
-        > div
-            @extend .col-4
+        align-items: center
+        @include media-breakpoint-down(md)
+            align-items: flex-start
+            flex-direction: column-reverse
+            margin-top: unset
+        > div:first-child
+            @include make-col(12)
+            @include media-breakpoint-up(md)
+                @include make-col(8)
+                margin-bottom: 0
+        > div:not(:first-child)
+            @include make-col(4)
+            @include media-breakpoint-down(md)
+                margin-bottom: map-get($spacers, 4)
 
     dl
         @extend .row
