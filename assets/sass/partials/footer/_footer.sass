@@ -43,14 +43,28 @@ footer[role="contentinfo"]
 
 
     .organizations
+        > *
+            @extend .col-4
+            @extend .col-md-2
+            @extend .col-lg-2
+            @extend .col-xl-2
         .title
             display: none
-        .organization 
-            .media 
+        .organization
+            max-height: 200px
+            .media
+                --bs-aspect-ratio: none
+                picture
+                    max-height: 140px
+                    position: relative
                 img
                     height: 140px
                     margin: 0
                     width: auto
+                    max-width: 100%
+                    object-fit: contain
+                    object-position: top
+
     .complementary
         @include media-breakpoint-only(md)
             flex-wrap: wrap
