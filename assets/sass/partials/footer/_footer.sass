@@ -1,12 +1,16 @@
 footer[role="contentinfo"]
     padding-bottom: px2rem(60)
     padding-top: px2rem(60)
+    background-color: white
+    border-top: 1px solid rgba(black, 0.3)
+    &, a
+        color: black !important
     @include media-breakpoint-up(lg)
         height: 800px
         padding-bottom: 0
         position: relative
         &::after
-            background-color: rgba(white, 0.3)
+            background-color: rgba(black, 0.3)
             bottom: calc(#{$spacer} * 5)
             content: ''
             height: 1px
@@ -37,6 +41,16 @@ footer[role="contentinfo"]
         p
             margin-bottom: 0
 
+
+    .organizations
+        .title
+            display: none
+        .organization 
+            .media 
+                img
+                    height: 140px
+                    margin: 0
+                    width: auto
     .complementary
         @include media-breakpoint-only(md)
             flex-wrap: wrap
