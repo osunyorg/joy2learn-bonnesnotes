@@ -51,8 +51,4 @@
   target: "/fr/actualites/"
   kind: posts
   children: []
-- title: Partenaires
-  target: "/fr/partenaires/"
-  kind: page
-  children: []
 
