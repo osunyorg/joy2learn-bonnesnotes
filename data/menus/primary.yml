@@ -11,6 +11,10 @@
     target: "/fr/projet/competences-scolaires/"
     kind: page
     children: []
+  - title: Repère d'équité
+    target: "/fr/projet/repere-dequite/"
+    kind: page
+    children: []
   - title: Références scientifiques
     target: "/fr/projet/references-scientifiques/"
     kind: page
