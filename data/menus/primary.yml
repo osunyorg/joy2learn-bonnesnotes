@@ -19,6 +19,10 @@
     target: "/fr/projet/notre-avenir/"
     kind: page
     children: []
+- title: Participer
+  target: "/fr/participer/"
+  kind: page
+  children: []
 - title: À propos de nous
   target: "/fr/a-propos-de-nous/"
   kind: page
@@ -39,10 +43,6 @@
     target: "/fr/pourquoi/references-scientifiques/"
     kind: page
     children: []
-- title: Participer
-  target: "/fr/participer/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: posts
