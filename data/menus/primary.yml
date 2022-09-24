@@ -3,8 +3,8 @@
   target: "/fr/projet/"
   kind: page
   children:
-  - title: Mission
-    target: "/fr/archives/mission/"
+  - title: Musique et moi
+    target: "/fr/projet/competences-scolaires/"
     kind: page
     children: []
   - title: Résultats scientifiques
