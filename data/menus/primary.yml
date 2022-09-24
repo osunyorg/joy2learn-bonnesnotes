@@ -7,14 +7,6 @@
     target: "/fr/projet/competences-scolaires/"
     kind: page
     children: []
-  - title: Résultats scientifiques
-    target: "/fr/archives/resultats-scientifiques/"
-    kind: page
-    children: []
-  - title: Chiffres-clés
-    target: "/fr/archives/chiffres-cles/"
-    kind: page
-    children: []
   - title: Avenir
     target: "/fr/archives/notre-avenir/"
     kind: page
