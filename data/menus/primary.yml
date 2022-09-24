@@ -3,6 +3,10 @@
   target: "/fr/projet/"
   kind: page
   children:
+  - title: Notre projet
+    target: "/fr/projet/notre-projet/"
+    kind: page
+    children: []
   - title: Musique et moi
     target: "/fr/projet/competences-scolaires/"
     kind: page
@@ -38,9 +42,5 @@
 - title: Actualités
   target: "/fr/actualites/"
   kind: posts
-  children: []
-- title: Notre projet
-  target: "/fr/projet/notre-projet/"
-  kind: page
   children: []
 
