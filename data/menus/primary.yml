@@ -7,10 +7,6 @@
     target: "/fr/projet/competences-scolaires/"
     kind: page
     children: []
-  - title: Avenir
-    target: "/fr/archives/notre-avenir/"
-    kind: page
-    children: []
 - title: Participer
   target: "/fr/participer/"
   kind: page
