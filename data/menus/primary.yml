@@ -55,4 +55,8 @@
   target: "/fr/actualites/"
   kind: posts
   children: []
+- title: Comité scientifique
+  target: "/fr/a-propos-de-nous/comite-scientifique/"
+  kind: page
+  children: []
 
