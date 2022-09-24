@@ -51,4 +51,8 @@
   target: "/fr/actualites/"
   kind: posts
   children: []
+- title: Enseignants
+  target: "/fr/a-propos-de-nous/notre-equipe/"
+  kind: persons
+  children: []
 
