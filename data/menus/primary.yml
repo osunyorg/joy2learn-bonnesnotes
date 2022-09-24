@@ -47,4 +47,8 @@
   target: "/fr/actualites/"
   kind: posts
   children: []
+- title: Association
+  target: "/fr/a-propos-de-nous/association/"
+  kind: page
+  children: []
 
