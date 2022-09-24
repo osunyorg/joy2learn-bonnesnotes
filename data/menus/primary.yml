@@ -43,6 +43,10 @@
     target: "/fr/pourquoi/references-scientifiques/"
     kind: page
     children: []
+- title: Participer
+  target: "/fr/participer/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: posts
