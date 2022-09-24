@@ -39,4 +39,8 @@
   target: "/fr/actualites/"
   kind: posts
   children: []
+- title: Notre projet
+  target: "/fr/projet/notre-projet/"
+  kind: page
+  children: []
 
