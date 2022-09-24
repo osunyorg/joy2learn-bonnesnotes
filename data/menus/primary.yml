@@ -23,8 +23,8 @@
     target: "/fr/projet/notre-avenir/"
     kind: page
     children: []
-- title: Projet
-  target: "/fr/projet/"
+- title: À propos de nous
+  target: "/fr/a-propos-de-nous/"
   kind: page
   children:
   - title: Histoire de l'éducation musicale
