@@ -23,8 +23,8 @@
     target: "/fr/projet/notre-avenir/"
     kind: page
     children: []
-- title: Pourquoi ?
-  target: "/fr/pourquoi/"
+- title: Projet
+  target: "/fr/projet/"
   kind: page
   children:
   - title: Histoire de l'éducation musicale
