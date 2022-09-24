@@ -43,10 +43,6 @@
     target: "/fr/pourquoi/references-scientifiques/"
     kind: page
     children: []
-- title: Notre équipe
-  target: "/fr/notre-equipe/"
-  kind: persons
-  children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: posts
