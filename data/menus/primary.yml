@@ -35,6 +35,10 @@
     target: "/fr/a-propos-de-nous/association/"
     kind: page
     children: []
+  - title: Enseignants
+    target: "/fr/a-propos-de-nous/notre-equipe/"
+    kind: persons
+    children: []
   - title: Histoire de l'éducation musicale
     target: "/fr/pourquoi/music-education-throughout-the-years/"
     kind: page
@@ -50,9 +54,5 @@
 - title: Actualités
   target: "/fr/actualites/"
   kind: posts
-  children: []
-- title: Enseignants
-  target: "/fr/a-propos-de-nous/notre-equipe/"
-  kind: persons
   children: []
 
