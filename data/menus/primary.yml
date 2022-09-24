@@ -43,6 +43,10 @@
     target: "/fr/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/fr/a-propos-de-nous/partenaires/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: posts
