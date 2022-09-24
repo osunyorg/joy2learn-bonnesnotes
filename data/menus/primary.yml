@@ -7,10 +7,6 @@
     target: "/fr/projet/mission/"
     kind: page
     children: []
-  - title: Fondateur
-    target: "/fr/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
-    kind: page
-    children: []
   - title: Résultats scientifiques
     target: "/fr/projet/resultats-scientifiques/"
     kind: page
@@ -27,6 +23,10 @@
   target: "/fr/a-propos-de-nous/"
   kind: page
   children:
+  - title: Fondateur
+    target: "/fr/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
+    kind: page
+    children: []
   - title: Histoire de l'éducation musicale
     target: "/fr/pourquoi/music-education-throughout-the-years/"
     kind: page
