@@ -43,10 +43,6 @@
     target: "/fr/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
-  - title: Histoire de l'éducation musicale
-    target: "/fr/pourquoi/music-education-throughout-the-years/"
-    kind: page
-    children: []
   - title: Compétences scolaires
     target: "/fr/pourquoi/competences-scolaires/"
     kind: page
