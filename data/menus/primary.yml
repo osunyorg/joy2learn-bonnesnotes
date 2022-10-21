@@ -19,10 +19,6 @@
     target: "/fr/projet/references-scientifiques/"
     kind: page
     children: []
-- title: Participer
-  target: "/fr/participer/"
-  kind: page
-  children: []
 - title: À propos de nous
   target: "/fr/a-propos-de-nous/"
   kind: page
