@@ -25,3 +25,14 @@
     .post
         time
             position: relative !important
+
+    .posts
+        > *
+            margin-bottom: 0 !important
+            overflow: hidden
+            width: 50%
+            @include media-breakpoint-down(md)
+                border-bottom: none !important
+                padding-bottom: 0 !important
+                width: 100%
+
