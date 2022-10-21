@@ -47,4 +47,8 @@
     target: "/fr/a-propos-de-nous/partenaires/"
     kind: page
     children: []
+- title: Contacts
+  target: "/fr/contacts/"
+  kind: page
+  children: []
 
