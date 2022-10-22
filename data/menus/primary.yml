@@ -43,7 +43,7 @@
     target: "/fr/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
-- title: Contacts
+- title: Contact
   target: "/fr/contact/"
   kind: page
   children: []
