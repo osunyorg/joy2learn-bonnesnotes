@@ -44,7 +44,7 @@
     kind: page
     children: []
 - title: Contacts
-  target: "/fr/contacts/"
+  target: "/fr/contact/"
   kind: page
   children: []
 
