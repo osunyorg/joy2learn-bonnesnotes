@@ -36,8 +36,8 @@
     kind: page
     children: []
   - title: Enseignants
-    target: "/fr/a-propos-de-nous/equipe/"
-    kind: persons
+    target: "/fr/a-propos-de-nous/enseignants/"
+    kind: page
     children: []
   - title: Comité scientifique
     target: "/fr/a-propos-de-nous/comite-scientifique/"
