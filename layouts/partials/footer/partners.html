@@ -1,5 +1,24 @@
 <section class="organizations">
   {{ range (where site.RegularPages.ByTitle "Section" "organizations") }}
-    {{ partial "organizations/organization.html" . }}
+    {{ $url := "#" }}
+    {{- if .Params.website -}}
+      {{ $url = .Params.website }}
+    {{- end -}}
+    <article class="organization">
+      <a href="{{ $url }}" target="_blank">
+        <div class="media">
+          {{- if .Params.logo -}}
+            {{- partial "commons/image.html"
+                  (dict
+                    "image"    .Params.logo
+                    "alt"      .Title
+                    "mobile"   "144"
+                    "tablet"   "196"
+                    "desktop"  "176"
+                  ) -}}
+          {{- end -}}
+        </div>
+      </a>
+    </article>
   {{ end }}
 </section>
