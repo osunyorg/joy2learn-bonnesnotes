@@ -1,3 +1,4 @@
 posts:          /actualites/:year/:month/:day/:slug/
 persons:        /a-propos-de-nous/equipe/:slug/
 organizations:  /a-propos-de-nous/partenaires/:slug/
+authors:        /a-propos-de-nous/equipe/:slug/actualites/
