@@ -1,36 +1,5 @@
-@import "_config"
+@import "_theme/utils"
+@import "_fonts"
+@import "_configuration"
 @import "_theme/hugo-osuny"
-
-@import "_vendors/bootstrap/container"
-
-@import "partials/footer/footer"
-@import "partials/header/header"
-
-@import "partials/header/hero"
-@import "partials/body/top"
-@import "partials/body/typography"
-
-@import "partials/blocks/blocks"
-@import "partials/blocks/chapter"
-@import "partials/blocks/key_figures"
-@import "partials/blocks/organization_chart"
-
-@import "partials/blocks/pages"
-@import "partials/blocks/posts"
-
-@import "pages/pages"
-@import "posts/pages"
-
-
-// Fix
-
-.toc
-    .active
-        font-weight: bold !important
-.block-gallery
-    figcaption
-        p
-            font-size: $small-font-size !important
-.organization
-    a[target="_blank"]::after
-        content: none
+@import "_style"
