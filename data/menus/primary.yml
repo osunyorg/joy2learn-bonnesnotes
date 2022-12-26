@@ -1,50 +1,50 @@
 ---
 - title: Projet
-  target: "/fr/projet/"
+  target: "/projet/"
   kind: page
   children:
   - title: Notre projet
-    target: "/fr/projet/notre-projet/"
+    target: "/projet/notre-projet/"
     kind: page
     children: []
   - title: Musique et moi
-    target: "/fr/projet/musique-et-moi/"
+    target: "/projet/musique-et-moi/"
     kind: page
     children: []
   - title: Repère d'équité
-    target: "/fr/projet/repere-dequite/"
+    target: "/projet/repere-dequite/"
     kind: page
     children: []
   - title: Références scientifiques
-    target: "/fr/projet/references-scientifiques/"
+    target: "/projet/references-scientifiques/"
     kind: page
     children: []
 - title: Actualités
-  target: "/fr/actualites/"
+  target: "/actualites/"
   kind: posts
   children: []
 - title: À propos de nous
-  target: "/fr/a-propos-de-nous/"
+  target: "/a-propos-de-nous/"
   kind: page
   children:
   - title: Fondateur
-    target: "/fr/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
+    target: "/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
     kind: page
     children: []
   - title: Association
-    target: "/fr/a-propos-de-nous/association-les-bonnes-notes/"
+    target: "/a-propos-de-nous/association-les-bonnes-notes/"
     kind: page
     children: []
   - title: Enseignants
-    target: "/fr/a-propos-de-nous/enseignants/"
+    target: "/a-propos-de-nous/enseignants/"
     kind: page
     children: []
   - title: Comité scientifique
-    target: "/fr/a-propos-de-nous/comite-scientifique/"
+    target: "/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
 - title: Contact
-  target: "/fr/contact/"
+  target: "/contact/"
   kind: page
   children: []
 
