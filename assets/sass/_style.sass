@@ -13,6 +13,17 @@ header#document-header
         background: transparent
         color: $color-background
 
+
+@include media-breakpoint-up(desktop)
+    .toc-cta
+        display: none !important
+    .toc-title
+        display: none
+    .toc 
+        ol 
+            li:first-of-type
+                margin-top: 0
+
 footer#document-footer
     border-top: 1px solid $color-border
     padding-bottom: $spacing4
