@@ -19,10 +19,6 @@
     target: "/projet/references-scientifiques/"
     kind: page
     children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: posts
-  children: []
 - title: À propos de nous
   target: "/a-propos-de-nous/"
   kind: page
@@ -43,6 +39,10 @@
     target: "/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: posts
+  children: []
 - title: Contact
   target: "/contact/"
   kind: page
