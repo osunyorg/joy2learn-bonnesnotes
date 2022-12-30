@@ -13,5 +13,8 @@ params:
   _merge: deep
   cookie_banner:
     enable: false
+  home:
+    toc:
+      disabled: true
 
 removePathAccents: true
