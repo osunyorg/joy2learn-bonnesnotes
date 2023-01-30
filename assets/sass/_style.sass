@@ -66,6 +66,12 @@ footer#document-footer
                     height: 120px
                     aspect-ratio: auto
                     object-position: top left
+        @include media-breakpoint-up(md)
+            grid-template-columns: repeat(6, 1fr)
+            grid-gap: 4rem 4rem !important
+        @include media-breakpoint-down(md)
+            grid-template-columns: repeat(3, 1fr)
+            grid-gap: 3rem 3rem !important
     .footer-partners
         padding-top: $spacing2
         grid-column: 1/3
