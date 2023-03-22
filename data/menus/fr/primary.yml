@@ -1,4 +1,6 @@
 ---
+title: Primary
+items:
 - title: Projet
   target: "/projet/"
   kind: page
