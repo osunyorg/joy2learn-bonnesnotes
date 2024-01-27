@@ -33,12 +33,12 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Musique et moi
-    target: "/projet/musique-et-moi/"
-    kind: page
-    children: []
   - title: Repère d'équité
     target: "/projet/repere-dequite/"
+    kind: page
+    children: []
+  - title: Musique et moi
+    target: "/projet/musique-et-moi/"
     kind: page
     children: []
   - title: Références scientifiques
