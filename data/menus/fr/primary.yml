@@ -29,10 +29,6 @@ items:
     target: "/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Contact
   target: "/contact/"
   kind: page
@@ -47,6 +43,10 @@ items:
     children: []
   - title: Repère d'équité
     target: "/projet/repere-dequite/"
+    kind: page
+    children: []
+  - title: Actualités
+    target: "/actualites/"
     kind: page
     children: []
   - title: Références scientifiques
