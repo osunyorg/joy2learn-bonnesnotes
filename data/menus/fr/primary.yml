@@ -41,12 +41,12 @@ items:
     target: "/projet/repere-dequite/"
     kind: page
     children: []
-  - title: Actualités
-    target: "/actualites/"
-    kind: page
-    children: []
   - title: Références scientifiques
     target: "/projet/references-scientifiques/"
+    kind: page
+    children: []
+  - title: Actualités
+    target: "/actualites/"
     kind: page
     children: []
 - title: Contact
