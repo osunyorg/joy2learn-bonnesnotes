@@ -29,10 +29,6 @@ items:
     target: "/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Pourquoi?
   target: ''
   kind: blank
@@ -53,4 +49,8 @@ items:
     target: "/projet/references-scientifiques/"
     kind: page
     children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
+  children: []
 
