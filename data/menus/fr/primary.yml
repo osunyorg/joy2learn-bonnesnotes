@@ -34,7 +34,7 @@ items:
   kind: blank
   children:
   - title: Repère d'équité
-    target: "/projet/repere-dequite/"
+    target: "/pourquoi/repere-dequite/"
     kind: page
     children: []
   - title: Musique et moi
@@ -42,7 +42,7 @@ items:
     kind: page
     children: []
   - title: Références scientifiques
-    target: "/projet/references-scientifiques/"
+    target: "/pourquoi/references-scientifiques/"
     kind: page
     children: []
   - title: Actualités
