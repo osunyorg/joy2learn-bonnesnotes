@@ -9,10 +9,6 @@ items:
     target: "/projet/notre-projet/"
     kind: page
     children: []
-  - title: Musique et moi
-    target: "/projet/musique-et-moi/"
-    kind: page
-    children: []
   - title: Repère d'équité
     target: "/projet/repere-dequite/"
     kind: page
@@ -44,7 +40,11 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
-  children: []
+  children:
+  - title: Musique et moi
+    target: "/projet/musique-et-moi/"
+    kind: page
+    children: []
 - title: Contact
   target: "/contact/"
   kind: page
