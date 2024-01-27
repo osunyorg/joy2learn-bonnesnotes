@@ -46,7 +46,7 @@ items:
     kind: page
     children: []
   - title: Actualités
-    target: "/actualites/"
+    target: "/pourquoi/actualites/"
     kind: page
     children: []
 - title: Contact
