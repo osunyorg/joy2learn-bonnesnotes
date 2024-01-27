@@ -9,6 +9,10 @@ items:
     target: "/projet/notre-projet/"
     kind: page
     children: []
+  - title: Photos et vidéos
+    target: "/projet/photos-et-videos/"
+    kind: page
+    children: []
 - title: À propos de nous
   target: "/a-propos-de-nous/"
   kind: page
