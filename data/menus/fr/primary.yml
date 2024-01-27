@@ -32,11 +32,7 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
-  children:
-  - title: Références scientifiques
-    target: "/projet/references-scientifiques/"
-    kind: page
-    children: []
+  children: []
 - title: Contact
   target: "/contact/"
   kind: page
@@ -51,6 +47,10 @@ items:
     children: []
   - title: Repère d'équité
     target: "/projet/repere-dequite/"
+    kind: page
+    children: []
+  - title: Références scientifiques
+    target: "/projet/references-scientifiques/"
     kind: page
     children: []
 
