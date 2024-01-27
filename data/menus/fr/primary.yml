@@ -38,7 +38,7 @@ items:
     kind: page
     children: []
   - title: Musique et moi
-    target: "/musique-et-moi/"
+    target: "/projet/musique-et-moi/"
     kind: page
     children: []
   - title: Références scientifiques
