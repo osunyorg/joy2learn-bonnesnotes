@@ -33,10 +33,6 @@ items:
   target: "/actualites/"
   kind: page
   children:
-  - title: Musique et moi
-    target: "/projet/musique-et-moi/"
-    kind: page
-    children: []
   - title: Repère d'équité
     target: "/projet/repere-dequite/"
     kind: page
@@ -52,5 +48,9 @@ items:
 - title: Pourquoi?
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Musique et moi
+    target: "/projet/musique-et-moi/"
+    kind: page
+    children: []
 
