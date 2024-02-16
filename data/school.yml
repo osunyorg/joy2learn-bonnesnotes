@@ -1,15 +1,10 @@
 ---
-name: >
-  Association Les Bonnes Notes
-address: >
+name: "Association Les Bonnes Notes"
+address: >-
   6 rue Gobert
-zipcode: >
-  75011
-city: >
-  Paris
-country: >
-  France
-phone: >
-  
+zipcode: "75011"
+city: "Paris"
+country: "France"
+phone: ""
 roles: []
 ---
