@@ -8,3 +8,5 @@ params:
   posts:
     index:
       layout: grid
+  debug:
+     productionUrl: "https://www.bonnesnotes.org"

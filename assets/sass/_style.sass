@@ -7,7 +7,7 @@
 header#document-header
     .baseline
         display: block
-        font-size: px2rem(15)
+        font-size: pxToRem(15)
         padding-left: 2px
         margin-top: -5px
         background: transparent
@@ -37,7 +37,7 @@ header#document-header
             img
                 opacity: 0.4
         @include media-breakpoint-down(desktop)
-            padding-bottom: $spacing3
+            padding-bottom: $spacing-5
             figure
                 margin: 0
 
@@ -52,12 +52,17 @@ header#document-header
 
 footer#document-footer
     border-top: 1px solid $color-border
-    padding-bottom: $spacing4
-
+    @include media-breakpoint-down(md)
+        padding-bottom: $spacing-6
     address
         p
             margin-top: 0
     .organizations
+        grid-template-columns: repeat(3, 1fr)
+        grid-gap: 1rem 3rem !important
+        @include media-breakpoint-up(md)
+            grid-template-columns: repeat(6, 1fr)
+            grid-gap: 1rem 4rem !important
         .organization
             .media
                 aspect-ratio: auto
@@ -68,22 +73,16 @@ footer#document-footer
                     height: 120px
                     aspect-ratio: auto
                     object-position: top left
-        @include media-breakpoint-up(md)
-            grid-template-columns: repeat(6, 1fr)
-            grid-gap: 4rem 4rem !important
-        @include media-breakpoint-down(md)
-            grid-template-columns: repeat(3, 1fr)
-            grid-gap: 3rem 3rem !important
     .footer-partners
-        padding-top: $spacing2
+        padding-top: $spacing-4
         grid-column: 1/3
         align-self: center
     .footer-legals
-        padding-top: $spacing2
+        padding-top: $spacing-4
         grid-column: 1/3
         ul,
         li,
         .footer-credit
             display: inline-block
         li
-            padding-right: $spacing1
+            padding-right: $spacing-3
