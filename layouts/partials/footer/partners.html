@@ -2,7 +2,7 @@
   {{ range (where site.RegularPages.ByTitle "Section" "organizations") }}
     {{ $url := "#" }}
     {{- if .Params.contact_details.website -}}
-      {{ $url = {{ .Params.contact_details.website.value }} }}
+      {{ $url = .Params.contact_details.website.value }}
     {{- end -}}
     <article class="organization">
       <a href="{{ chomp $url | safeURL }}" target="_blank">
