@@ -9,10 +9,13 @@ items:
     target: "/projet/notre-projet/"
     kind: page
     children: []
+    file: content/fr/pages/projet/notre-projet/_index.html
   - title: Photos et vidéos
     target: "/projet/photos-et-videos/"
     kind: page
     children: []
+    file: content/fr/pages/projet/photos-et-videos/_index.html
+  file: content/fr/pages/projet/_index.html
 - title: À propos de nous
   target: "/a-propos-de-nous/"
   kind: page
@@ -21,18 +24,23 @@ items:
     target: "/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos-de-nous/alan-gampel-fondateur-du-projet/_index.html
   - title: Association
     target: "/a-propos-de-nous/association-les-bonnes-notes/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos-de-nous/association-les-bonnes-notes/_index.html
   - title: Enseignants
     target: "/a-propos-de-nous/enseignants/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos-de-nous/enseignants/_index.html
   - title: Comité scientifique
     target: "/a-propos-de-nous/comite-scientifique/"
     kind: page
     children: []
+    file: content/fr/pages/a-propos-de-nous/comite-scientifique/_index.html
+  file: content/fr/pages/a-propos-de-nous/_index.html
 - title: Pourquoi?
   target: ''
   kind: blank
@@ -41,20 +49,25 @@ items:
     target: "/pourquoi/repere-dequite/"
     kind: page
     children: []
+    file: content/fr/pages/pourquoi/repere-dequite/_index.html
   - title: Musique et moi
     target: "/pourquoi/musique-et-moi/"
     kind: page
     children: []
+    file: content/fr/pages/pourquoi/musique-et-moi/_index.html
   - title: Références scientifiques
     target: "/pourquoi/references-scientifiques/"
     kind: page
     children: []
+    file: content/fr/pages/pourquoi/references-scientifiques/_index.html
   - title: Actualités
     target: "/pourquoi/actualites/"
     kind: page
     children: []
+    file: content/fr/posts/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
   children: []
+  file: content/fr/pages/contact/_index.html
 
