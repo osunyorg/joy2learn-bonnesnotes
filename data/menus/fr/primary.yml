@@ -4,16 +4,19 @@ items:
 - title: Projet
   target: "/projet/"
   kind: page
+  new_tab: false
   children:
   - title: Notre projet
     target: "/projet/notre-projet/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/projet/notre-projet"
     file: content/fr/pages/projet/notre-projet/_index.html
   - title: Photos et vidéos
     target: "/projet/photos-et-videos/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/projet/photos-et-videos"
     file: content/fr/pages/projet/photos-et-videos/_index.html
@@ -22,28 +25,33 @@ items:
 - title: À propos de nous
   target: "/a-propos-de-nous/"
   kind: page
+  new_tab: false
   children:
   - title: Fondateur
     target: "/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos-de-nous/alan-gampel-fondateur-du-projet"
     file: content/fr/pages/a-propos-de-nous/alan-gampel-fondateur-du-projet/_index.html
   - title: Association
     target: "/a-propos-de-nous/association-les-bonnes-notes/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos-de-nous/association-les-bonnes-notes"
     file: content/fr/pages/a-propos-de-nous/association-les-bonnes-notes/_index.html
   - title: Enseignants
     target: "/a-propos-de-nous/enseignants/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos-de-nous/enseignants"
     file: content/fr/pages/a-propos-de-nous/enseignants/_index.html
   - title: Comité scientifique
     target: "/a-propos-de-nous/comite-scientifique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/a-propos-de-nous/comite-scientifique"
     file: content/fr/pages/a-propos-de-nous/comite-scientifique/_index.html
@@ -52,34 +60,40 @@ items:
 - title: Pourquoi?
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Repère d'équité
     target: "/pourquoi/repere-dequite/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/pourquoi/repere-dequite"
     file: content/fr/pages/pourquoi/repere-dequite/_index.html
   - title: Musique et moi
     target: "/pourquoi/musique-et-moi/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/pourquoi/musique-et-moi"
     file: content/fr/pages/pourquoi/musique-et-moi/_index.html
   - title: Références scientifiques
     target: "/pourquoi/references-scientifiques/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/pourquoi/references-scientifiques"
     file: content/fr/pages/pourquoi/references-scientifiques/_index.html
   - title: Actualités
     target: "/pourquoi/actualites/"
     kind: page
+    new_tab: false
     children: []
     path: "/posts"
     file: content/fr/posts/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
