@@ -2,6 +2,11 @@
 
 baseURL: https://www.bonnesnotes.org
 
+## OSUNY
+osuny:
+  website:
+    id: 6fc782eb-601a-4f1f-a5fb-ec3c5f6eef98
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
