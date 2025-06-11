@@ -10,14 +10,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /pourquoi/actualites/:year-:month-:day-:slug/
-    posts_categories: /pourquoi/actualites/:slug/
-    organizations: /a-propos-de-nous/partenaires/:slug/
-    organizations_categories: /a-propos-de-nous/partenaires/categories/:slug/
-    persons: /a-propos-de-nous/equipe/:slug/
-    persons_categories: /a-propos-de-nous/equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
