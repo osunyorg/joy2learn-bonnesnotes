@@ -7,9 +7,8 @@ params:
   posts:
     index:
       layout: grid
-  image_sizes:
-    design_system:
-      lightbox:
-        disabled: true
+  components:
+    lightbox:
+      disabled: true
   debug:
      productionUrl: "https://www.bonnesnotes.org"
