@@ -11,4 +11,4 @@ params:
     lightbox:
       disabled: true
   debug:
-     productionUrl: "https://www.bonnesnotes.org"
+      productionUrl: "https://www.bonnesnotes.org"
