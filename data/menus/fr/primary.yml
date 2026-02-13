@@ -2,99 +2,137 @@
 title: Primary
 items:
 - title: Projet
+  slug: projet
   target: "/projet/"
   kind: page
   new_tab: false
   children:
   - title: Notre projet
+    slug: notre-projet
     target: "/projet/notre-projet/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/projet/notre-projet"
     file: content/fr/pages/projet/notre-projet/_index.html
   - title: Photos et vidéos
+    slug: photos-et-videos
     target: "/projet/photos-et-videos/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/projet/photos-et-videos"
     file: content/fr/pages/projet/photos-et-videos/_index.html
+  descendants_targets:
+  - "/projet/notre-projet/"
+  - "/projet/photos-et-videos/"
   path: "/pages/projet"
   file: content/fr/pages/projet/_index.html
 - title: À propos de nous
+  slug: a-propos-de-nous
   target: "/a-propos-de-nous/"
   kind: page
   new_tab: false
   children:
   - title: Fondateur
+    slug: fondateur
     target: "/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos-de-nous/alan-gampel-fondateur-du-projet"
     file: content/fr/pages/a-propos-de-nous/alan-gampel-fondateur-du-projet/_index.html
   - title: Association
+    slug: association
     target: "/a-propos-de-nous/association-les-bonnes-notes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos-de-nous/association-les-bonnes-notes"
     file: content/fr/pages/a-propos-de-nous/association-les-bonnes-notes/_index.html
   - title: Enseignants
+    slug: enseignants
     target: "/a-propos-de-nous/enseignants/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos-de-nous/enseignants"
     file: content/fr/pages/a-propos-de-nous/enseignants/_index.html
   - title: Comité scientifique
+    slug: comite-scientifique
     target: "/a-propos-de-nous/comite-scientifique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos-de-nous/comite-scientifique"
     file: content/fr/pages/a-propos-de-nous/comite-scientifique/_index.html
+  descendants_targets:
+  - "/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
+  - "/a-propos-de-nous/association-les-bonnes-notes/"
+  - "/a-propos-de-nous/comite-scientifique/"
+  - "/a-propos-de-nous/enseignants/"
   path: "/pages/a-propos-de-nous"
   file: content/fr/pages/a-propos-de-nous/_index.html
 - title: Pourquoi?
+  slug: pourquoi
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Repère d'équité
+    slug: repere-d-equite
     target: "/pourquoi/repere-dequite/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/pourquoi/repere-dequite"
     file: content/fr/pages/pourquoi/repere-dequite/_index.html
   - title: Musique et moi
+    slug: musique-et-moi
     target: "/pourquoi/musique-et-moi/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/pourquoi/musique-et-moi"
     file: content/fr/pages/pourquoi/musique-et-moi/_index.html
   - title: Références scientifiques
+    slug: references-scientifiques
     target: "/pourquoi/references-scientifiques/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/pourquoi/references-scientifiques"
     file: content/fr/pages/pourquoi/references-scientifiques/_index.html
   - title: Actualités
+    slug: actualites
     target: "/pourquoi/actualites/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
+  descendants_targets:
+  - "/pourquoi/actualites/"
+  - "/pourquoi/musique-et-moi/"
+  - "/pourquoi/references-scientifiques/"
+  - "/pourquoi/repere-dequite/"
 - title: Contact
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
