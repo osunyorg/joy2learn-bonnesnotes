@@ -15,334 +15,334 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/2021/10/05/the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solution/"
+from = "/actualites/2021/10/05/the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solution/index.html"
 to = "/pourquoi/actualites/2021-10-05-the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solutio/"
 
 [[redirects]]
-from = "/fr/a-propos-de-nous/association-les-bonnes-notes/"
+from = "/fr/a-propos-de-nous/association-les-bonnes-notes/index.html"
 to = "/a-propos-de-nous/association-les-bonnes-notes/"
 
 [[redirects]]
-from = "/fr/actualites/"
+from = "/fr/actualites/index.html"
 to = "/pourquoi/actualites/"
 
 [[redirects]]
-from = "/fr/a-propos-de-nous/"
+from = "/fr/a-propos-de-nous/index.html"
 to = "/a-propos-de-nous/"
 
 [[redirects]]
-from = "/actualites/2015/02/17/music-lessons-were-the-best-thing-your-parents-ever-did-for-you-according-to-science/"
+from = "/actualites/2015/02/17/music-lessons-were-the-best-thing-your-parents-ever-did-for-you-according-to-science/index.html"
 to = "/pourquoi/actualites/2015-02-17-music-lessons-were-the-best-thing-your-parents-ever-did-for-you-according-to-science/"
 
 [[redirects]]
-from = "/actualites/2022-02-17-teenage-skiing-prodigy-credits-nine-years-of-piano-playing-for-gold-medal-at-winter-olympics/"
+from = "/actualites/2022-02-17-teenage-skiing-prodigy-credits-nine-years-of-piano-playing-for-gold-medal-at-winter-olympics/index.html"
 to = "/pourquoi/actualites/2022-02-17-teenage-skiing-prodigy-credits-nine-years-of-piano-playing-for-gold-medal-at-winter-olympics/"
 
 [[redirects]]
-from = "/actualites/2014-07-01-anita-collins-les-bienfaits-de-jouer-d-un-instrument-pour-votre-cerveau-anita-collins/"
+from = "/actualites/2014-07-01-anita-collins-les-bienfaits-de-jouer-d-un-instrument-pour-votre-cerveau-anita-collins/index.html"
 to = "/pourquoi/actualites/2014-07-01-anita-collins-les-bienfaits-de-jouer-d-un-instrument-pour-votre-cerveau-anita-collins/"
 
 [[redirects]]
-from = "/actualites/2017/06/14/new-evidence-links-music-education-higher-test-scores/"
+from = "/actualites/2017/06/14/new-evidence-links-music-education-higher-test-scores/index.html"
 to = "/pourquoi/actualites/2017-06-14-new-evidence-links-music-education-higher-test-scores/"
 
 [[redirects]]
-from = "/notre-avenir/"
+from = "/notre-avenir/index.html"
 to = "/archives/notre-avenir/"
 
 [[redirects]]
-from = "/actualites/2018/11/05/music-also-matters-in-the-real-world/"
+from = "/actualites/2018/11/05/music-also-matters-in-the-real-world/index.html"
 to = "/pourquoi/actualites/2018-11-05-music-also-matters-in-the-real-world/"
 
 [[redirects]]
-from = "/actualites/2013-10-26-how-music-could-make-you-a-rocket-scientist/"
+from = "/actualites/2013-10-26-how-music-could-make-you-a-rocket-scientist/index.html"
 to = "/pourquoi/actualites/2013-10-26-how-music-could-make-you-a-rocket-scientist/"
 
 [[redirects]]
-from = "/fr/plan-du-site/"
+from = "/fr/plan-du-site/index.html"
 to = "/plan-du-site/"
 
 [[redirects]]
-from = "/fr/projet/references-scientifiques/"
+from = "/fr/projet/references-scientifiques/index.html"
 to = "/pourquoi/references-scientifiques/"
 
 [[redirects]]
-from = "/projet/musique-et-moi/"
+from = "/projet/musique-et-moi/index.html"
 to = "/pourquoi/musique-et-moi/"
 
 [[redirects]]
-from = "/actualites/2013-02-12-early-music-lessons-boost-brain-development-neuroscience-news/"
+from = "/actualites/2013-02-12-early-music-lessons-boost-brain-development-neuroscience-news/index.html"
 to = "/pourquoi/actualites/2013-02-12-early-music-lessons-boost-brain-development-neuroscience-news/"
 
 [[redirects]]
-from = "/fr/archives/resultats-scientifiques/"
+from = "/fr/archives/resultats-scientifiques/index.html"
 to = "/archives/resultats-scientifiques/"
 
 [[redirects]]
-from = "/fr/"
+from = "/fr/index.html"
 to = "/"
 
 [[redirects]]
-from = "/fr/projet/notre-projet/"
+from = "/fr/projet/notre-projet/index.html"
 to = "/projet/notre-projet/"
 
 [[redirects]]
-from = "/fr/a-propos-de-nous/partenaires/"
+from = "/fr/a-propos-de-nous/partenaires/index.html"
 to = "/a-propos-de-nous/partenaires/"
 
 [[redirects]]
-from = "/actualites/2017-03-24-emmanuel-macron-en-marche-avec-l-education-musicale-a-l-ecole/"
+from = "/actualites/2017-03-24-emmanuel-macron-en-marche-avec-l-education-musicale-a-l-ecole/index.html"
 to = "/pourquoi/actualites/2017-03-24-emmanuel-macron-en-marche-avec-l-education-musicale-a-l-ecole/"
 
 [[redirects]]
-from = "/actualites/2022-02-11-if-you-want-smarter-kids-teach-them-music-not-coding-according-to-mit/"
+from = "/actualites/2022-02-11-if-you-want-smarter-kids-teach-them-music-not-coding-according-to-mit/index.html"
 to = "/pourquoi/actualites/2022-02-11-if-you-want-smarter-kids-teach-them-music-not-coding-according-to-mit/"
 
 [[redirects]]
-from = "/actualites/2013/10/09/using-music-to-close-the-academic-gap/"
+from = "/actualites/2013/10/09/using-music-to-close-the-academic-gap/index.html"
 to = "/pourquoi/actualites/2013-10-09-using-music-to-close-the-academic-gap/"
 
 [[redirects]]
-from = "/fr/projet/"
+from = "/fr/projet/index.html"
 to = "/projet/"
 
 [[redirects]]
-from = "/fr/archives/mission/"
+from = "/fr/archives/mission/index.html"
 to = "/archives/mission/"
 
 [[redirects]]
-from = "/actualites/2021-06-21-fete-de-la-musique-comment-la-musique-faconne-le-cerveau/"
+from = "/actualites/2021-06-21-fete-de-la-musique-comment-la-musique-faconne-le-cerveau/index.html"
 to = "/pourquoi/actualites/2021-06-21-fete-de-la-musique-comment-la-musique-faconne-le-cerveau/"
 
 [[redirects]]
-from = "/actualites/2017/03/24/emmanuel-macron-en-marche-avec-l-education-musicale-a-l-ecole/"
+from = "/actualites/2017/03/24/emmanuel-macron-en-marche-avec-l-education-musicale-a-l-ecole/index.html"
 to = "/pourquoi/actualites/2017-03-24-emmanuel-macron-en-marche-avec-l-education-musicale-a-l-ecole/"
 
 [[redirects]]
-from = "/actualites/2013-10-09-using-music-to-close-the-academic-gap/"
+from = "/actualites/2013-10-09-using-music-to-close-the-academic-gap/index.html"
 to = "/pourquoi/actualites/2013-10-09-using-music-to-close-the-academic-gap/"
 
 [[redirects]]
-from = "/actualites/2014/11/19/scientists-discovered-something-amazing-about-musicians-brains/"
+from = "/actualites/2014/11/19/scientists-discovered-something-amazing-about-musicians-brains/index.html"
 to = "/pourquoi/actualites/2014-11-19-scientists-discovered-something-amazing-about-musicians-brains/"
 
 [[redirects]]
-from = "/actualites/2017/10/03/how-to-improve-the-school-results-not-extra-maths-but-music-loads-of-it/"
+from = "/actualites/2017/10/03/how-to-improve-the-school-results-not-extra-maths-but-music-loads-of-it/index.html"
 to = "/pourquoi/actualites/2017-10-03-how-to-improve-the-school-results-not-extra-maths-but-music-loads-of-it/"
 
 [[redirects]]
-from = "/fr/projet/musique-et-moi/"
+from = "/fr/projet/musique-et-moi/index.html"
 to = "/pourquoi/musique-et-moi/"
 
 [[redirects]]
-from = "/a-propos-de-nous/partenaires/ville-daubervilliers/"
+from = "/a-propos-de-nous/partenaires/ville-daubervilliers/index.html"
 to = "/a-propos-de-nous/partenaires/ville-d-aubervilliers/"
 
 [[redirects]]
-from = "/actualites/2021/06/21/fete-de-la-musique-comment-la-musique-faconne-le-cerveau/"
+from = "/actualites/2021/06/21/fete-de-la-musique-comment-la-musique-faconne-le-cerveau/index.html"
 to = "/pourquoi/actualites/2021-06-21-fete-de-la-musique-comment-la-musique-faconne-le-cerveau/"
 
 [[redirects]]
-from = "/fr/a-propos-de-nous/comite-scientifique/"
+from = "/fr/a-propos-de-nous/comite-scientifique/index.html"
 to = "/a-propos-de-nous/comite-scientifique/"
 
 [[redirects]]
-from = "/resultats-scientifiques/"
+from = "/resultats-scientifiques/index.html"
 to = "/archives/resultats-scientifiques/"
 
 [[redirects]]
-from = "/projet/references-scientifiques/"
+from = "/projet/references-scientifiques/index.html"
 to = "/pourquoi/references-scientifiques/"
 
 [[redirects]]
-from = "/pourquoi/actualites/2021-10-05-the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solution/"
+from = "/pourquoi/actualites/2021-10-05-the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solution/index.html"
 to = "/pourquoi/actualites/2021-10-05-the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solutio/"
 
 [[redirects]]
-from = "/actualites/2013/10/26/how-music-could-make-you-a-rocket-scientist/"
+from = "/actualites/2013/10/26/how-music-could-make-you-a-rocket-scientist/index.html"
 to = "/pourquoi/actualites/2013-10-26-how-music-could-make-you-a-rocket-scientist/"
 
 [[redirects]]
-from = "/actualites/2019-06-25-high-school-students-do-better-in-science-math-and-english-if-they-also-take-music-lessons/"
+from = "/actualites/2019-06-25-high-school-students-do-better-in-science-math-and-english-if-they-also-take-music-lessons/index.html"
 to = "/pourquoi/actualites/2019-06-25-high-school-students-do-better-in-science-math-and-english-if-they-also-take-music-lessons/"
 
 [[redirects]]
-from = "/actualites/2017-06-14-new-evidence-links-music-education-higher-test-scores/"
+from = "/actualites/2017-06-14-new-evidence-links-music-education-higher-test-scores/index.html"
 to = "/pourquoi/actualites/2017-06-14-new-evidence-links-music-education-higher-test-scores/"
 
 [[redirects]]
-from = "/fr/archives/notre-avenir/"
+from = "/fr/archives/notre-avenir/index.html"
 to = "/archives/notre-avenir/"
 
 [[redirects]]
-from = "/actualites/2022/01/13/making-music-changing-lives-youth-orchestras-help-at-risk-kids/"
+from = "/actualites/2022/01/13/making-music-changing-lives-youth-orchestras-help-at-risk-kids/index.html"
 to = "/pourquoi/actualites/2022-01-13-making-music-changing-lives-youth-orchestras-help-at-risk-kids/"
 
 [[redirects]]
-from = "/fr/archives/music-education-throughout-the-years/"
+from = "/fr/archives/music-education-throughout-the-years/index.html"
 to = "/archives/music-education-throughout-the-years/"
 
 [[redirects]]
-from = "/actualites/2021/08/03/les-bienfaits-de-la-musique-pour-le-cerveau-des-enfants/"
+from = "/actualites/2021/08/03/les-bienfaits-de-la-musique-pour-le-cerveau-des-enfants/index.html"
 to = "/pourquoi/actualites/2021-08-03-les-bienfaits-de-la-musique-pour-le-cerveau-des-enfants/"
 
 [[redirects]]
-from = "/fr/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
+from = "/fr/a-propos-de-nous/alan-gampel-fondateur-du-projet/index.html"
 to = "/a-propos-de-nous/alan-gampel-fondateur-du-projet/"
 
 [[redirects]]
-from = "/les-atouts-de-la-pratique-musicale/"
+from = "/les-atouts-de-la-pratique-musicale/index.html"
 to = "/archives/les-atouts-de-la-pratique-musicale/"
 
 [[redirects]]
-from = "/fr/archives/les-atouts-de-la-pratique-musicale/"
+from = "/fr/archives/les-atouts-de-la-pratique-musicale/index.html"
 to = "/archives/les-atouts-de-la-pratique-musicale/"
 
 [[redirects]]
-from = "/fr/projet/repere-dequite/"
+from = "/fr/projet/repere-dequite/index.html"
 to = "/pourquoi/repere-dequite/"
 
 [[redirects]]
-from = "/actualites/2021-08-03-les-bienfaits-de-la-musique-pour-le-cerveau-des-enfants/"
+from = "/actualites/2021-08-03-les-bienfaits-de-la-musique-pour-le-cerveau-des-enfants/index.html"
 to = "/pourquoi/actualites/2021-08-03-les-bienfaits-de-la-musique-pour-le-cerveau-des-enfants/"
 
 [[redirects]]
-from = "/actualites/2018-11-05-music-also-matters-in-the-real-world/"
+from = "/actualites/2018-11-05-music-also-matters-in-the-real-world/index.html"
 to = "/pourquoi/actualites/2018-11-05-music-also-matters-in-the-real-world/"
 
 [[redirects]]
-from = "/actualites/2017-10-03-how-to-improve-the-school-results-not-extra-maths-but-music-loads-of-it/"
+from = "/actualites/2017-10-03-how-to-improve-the-school-results-not-extra-maths-but-music-loads-of-it/index.html"
 to = "/pourquoi/actualites/2017-10-03-how-to-improve-the-school-results-not-extra-maths-but-music-loads-of-it/"
 
 [[redirects]]
-from = "/association-les-bonnes-notes/"
+from = "/association-les-bonnes-notes/index.html"
 to = "/ecoles/association-les-bonnes-notes/"
 
 [[redirects]]
-from = "/actualites/2021-10-05-the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solution/"
+from = "/actualites/2021-10-05-the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solution/index.html"
 to = "/pourquoi/actualites/2021-10-05-the-pandemic-has-led-to-a-dramatic-decline-in-childrens-fine-motor-skills-could-music-be-the-solutio/"
 
 [[redirects]]
-from = "/actualites/2022/02/17/teenage-skiing-prodigy-credits-nine-years-of-piano-playing-for-gold-medal-at-winter-olympics/"
+from = "/actualites/2022/02/17/teenage-skiing-prodigy-credits-nine-years-of-piano-playing-for-gold-medal-at-winter-olympics/index.html"
 to = "/pourquoi/actualites/2022-02-17-teenage-skiing-prodigy-credits-nine-years-of-piano-playing-for-gold-medal-at-winter-olympics/"
 
 [[redirects]]
-from = "/fr/a-propos-de-nous/enseignants/"
+from = "/fr/a-propos-de-nous/enseignants/index.html"
 to = "/a-propos-de-nous/enseignants/"
 
 [[redirects]]
-from = "/a-propos-de-nous/partenaires/caisse-dallocations-familiales-de-la-seine-saint-denis/"
+from = "/a-propos-de-nous/partenaires/caisse-dallocations-familiales-de-la-seine-saint-denis/index.html"
 to = "/a-propos-de-nous/partenaires/caisse-d-allocations-familiales-de-la-seine-saint-denis/"
 
 [[redirects]]
-from = "/actualites/2019/06/25/high-school-students-do-better-in-science-math-and-english-if-they-also-take-music-lessons/"
+from = "/actualites/2019/06/25/high-school-students-do-better-in-science-math-and-english-if-they-also-take-music-lessons/index.html"
 to = "/pourquoi/actualites/2019-06-25-high-school-students-do-better-in-science-math-and-english-if-they-also-take-music-lessons/"
 
 [[redirects]]
-from = "/actualites/2007/02/01/la-musique-eduque-les-enfants/"
+from = "/actualites/2007/02/01/la-musique-eduque-les-enfants/index.html"
 to = "/pourquoi/actualites/2007-02-01-la-musique-eduque-les-enfants/"
 
 [[redirects]]
-from = "/actualites/2021/02/13/pourquoi-les-enfants-doivent-apprendre-a-jouer-d-un-instrument-de-musique/"
+from = "/actualites/2021/02/13/pourquoi-les-enfants-doivent-apprendre-a-jouer-d-un-instrument-de-musique/index.html"
 to = "/pourquoi/actualites/2021-02-13-pourquoi-les-enfants-doivent-apprendre-a-jouer-d-un-instrument-de-musique/"
 
 [[redirects]]
-from = "/musique-et-moi/"
+from = "/musique-et-moi/index.html"
 to = "/pourquoi/musique-et-moi/"
 
 [[redirects]]
-from = "/actualites/2013/02/12/early-music-lessons-boost-brain-development-neuroscience-news/"
+from = "/actualites/2013/02/12/early-music-lessons-boost-brain-development-neuroscience-news/index.html"
 to = "/pourquoi/actualites/2013-02-12-early-music-lessons-boost-brain-development-neuroscience-news/"
 
 [[redirects]]
-from = "/actualites/2019-08-14-les-avantages-de-jouer-d-un-instrument-de-musique/"
+from = "/actualites/2019-08-14-les-avantages-de-jouer-d-un-instrument-de-musique/index.html"
 to = "/pourquoi/actualites/2019-08-14-les-avantages-de-jouer-d-un-instrument-de-musique/"
 
 [[redirects]]
-from = "/actualites/2014-11-19-scientists-discovered-something-amazing-about-musicians-brains/"
+from = "/actualites/2014-11-19-scientists-discovered-something-amazing-about-musicians-brains/index.html"
 to = "/pourquoi/actualites/2014-11-19-scientists-discovered-something-amazing-about-musicians-brains/"
 
 [[redirects]]
-from = "/actualites/2022-01-13-making-music-changing-lives-youth-orchestras-help-at-risk-kids/"
+from = "/actualites/2022-01-13-making-music-changing-lives-youth-orchestras-help-at-risk-kids/index.html"
 to = "/pourquoi/actualites/2022-01-13-making-music-changing-lives-youth-orchestras-help-at-risk-kids/"
 
 [[redirects]]
-from = "/fr/contact/"
+from = "/fr/contact/index.html"
 to = "/contact/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/pourquoi/actualites/"
 
 [[redirects]]
-from = "/fr/politique-de-confidentialite/"
+from = "/fr/politique-de-confidentialite/index.html"
 to = "/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/fr/accessibilite/"
+from = "/fr/accessibilite/index.html"
 to = "/accessibilite/"
 
 [[redirects]]
-from = "/actualites/2015-02-17-music-lessons-were-the-best-thing-your-parents-ever-did-for-you-according-to-science/"
+from = "/actualites/2015-02-17-music-lessons-were-the-best-thing-your-parents-ever-did-for-you-according-to-science/index.html"
 to = "/pourquoi/actualites/2015-02-17-music-lessons-were-the-best-thing-your-parents-ever-did-for-you-according-to-science/"
 
 [[redirects]]
-from = "/fr/mentions-legales/"
+from = "/fr/mentions-legales/index.html"
 to = "/mentions-legales/"
 
 [[redirects]]
-from = "/actualites/2019/08/14/les-avantages-de-jouer-d-un-instrument-de-musique/"
+from = "/actualites/2019/08/14/les-avantages-de-jouer-d-un-instrument-de-musique/index.html"
 to = "/pourquoi/actualites/2019-08-14-les-avantages-de-jouer-d-un-instrument-de-musique/"
 
 [[redirects]]
-from = "/actualites/2007-02-01-la-musique-eduque-les-enfants/"
+from = "/actualites/2007-02-01-la-musique-eduque-les-enfants/index.html"
 to = "/pourquoi/actualites/2007-02-01-la-musique-eduque-les-enfants/"
 
 [[redirects]]
-from = "/fr/a-propos-de-nous/equipe/"
+from = "/fr/a-propos-de-nous/equipe/index.html"
 to = "/a-propos-de-nous/equipe/"
 
 [[redirects]]
-from = "/actualites/2022/02/11/if-you-want-smarter-kids-teach-them-music-not-coding-according-to-mit/"
+from = "/actualites/2022/02/11/if-you-want-smarter-kids-teach-them-music-not-coding-according-to-mit/index.html"
 to = "/pourquoi/actualites/2022-02-11-if-you-want-smarter-kids-teach-them-music-not-coding-according-to-mit/"
 
 [[redirects]]
-from = "/projet/repere-dequite/"
+from = "/projet/repere-dequite/index.html"
 to = "/pourquoi/repere-dequite/"
 
 [[redirects]]
-from = "/actualites/2021-02-13-pourquoi-les-enfants-doivent-apprendre-a-jouer-d-un-instrument-de-musique/"
+from = "/actualites/2021-02-13-pourquoi-les-enfants-doivent-apprendre-a-jouer-d-un-instrument-de-musique/index.html"
 to = "/pourquoi/actualites/2021-02-13-pourquoi-les-enfants-doivent-apprendre-a-jouer-d-un-instrument-de-musique/"
 
 [[redirects]]
-from = "/music-education-throughout-the-years/"
+from = "/music-education-throughout-the-years/index.html"
 to = "/archives/music-education-throughout-the-years/"
 
 [[redirects]]
-from = "/chiffres-cles/"
+from = "/chiffres-cles/index.html"
 to = "/archives/chiffres-cles/"
 
 [[redirects]]
-from = "/fr/pourquoi/"
+from = "/fr/pourquoi/index.html"
 to = "/pourquoi/"
 
 [[redirects]]
-from = "/fr/archives/chiffres-cles/"
+from = "/fr/archives/chiffres-cles/index.html"
 to = "/archives/chiffres-cles/"
 
 [[redirects]]
-from = "/a-propos-de-nous/partenaires/caisse-dallocations-familiales-du-val-de-marne/"
+from = "/a-propos-de-nous/partenaires/caisse-dallocations-familiales-du-val-de-marne/index.html"
 to = "/a-propos-de-nous/partenaires/caisse-d-allocations-familiales-du-val-de-marne/"
 
 [[redirects]]
-from = "/mission/"
+from = "/mission/index.html"
 to = "/archives/mission/"
 
 [[redirects]]
-from = "/a-propos-de-nous/partenaires/conservatoire-a-rayonnement-regional-daubervilliers-la-courneuve/"
+from = "/a-propos-de-nous/partenaires/conservatoire-a-rayonnement-regional-daubervilliers-la-courneuve/index.html"
 to = "/a-propos-de-nous/partenaires/conservatoire-a-rayonnement-regional-d-aubervilliers-la-courneuve/"
 
 [[redirects]]
-from = "/actualites/2014/07/01/anita-collins-les-bienfaits-de-jouer-d-un-instrument-pour-votre-cerveau-anita-collins/"
+from = "/actualites/2014/07/01/anita-collins-les-bienfaits-de-jouer-d-un-instrument-pour-votre-cerveau-anita-collins/index.html"
 to = "/pourquoi/actualites/2014-07-01-anita-collins-les-bienfaits-de-jouer-d-un-instrument-pour-votre-cerveau-anita-collins/"
 
